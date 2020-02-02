@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39318" started-at="2020-02-02T18:16:07 IST" finished-at="2020-02-02T18:16:46 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39318" started-at="2020-02-02T18:16:07 IST" finished-at="2020-02-02T18:16:46 IST">
+      <class name="testCases.createAsset">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:testCases.createAsset@3a883ce7]" name="browserLaunch" is-config="true" duration-ms="16636" started-at="2020-02-02T18:15:50 IST" finished-at="2020-02-02T18:16:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="createAssetTC(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.createAsset@3a883ce7]" name="createAssetTC" duration-ms="36343" started-at="2020-02-02T18:16:10 IST" data-provider="dataFromExcel" finished-at="2020-02-02T18:16:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HP]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ready to Deploy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sample Asset]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[43863]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1234567]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1500]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Order In-Process]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[BE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAssetTC -->
+      </class> <!-- testCases.createAsset -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
